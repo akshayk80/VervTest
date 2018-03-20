@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Coffee</string>
+		<key>price</key>
+		<real>2.3</real>
+		<key>priceDescription</key>
+		<string>£2.30 per 240g</string>
+		<key>imageName</key>
+		<string>coffee.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Tea</string>
+		<key>price</key>
+		<real>3.1</real>
+		<key>priceDescription</key>
+		<string>£3.10 per box of 60</string>
+		<key>imageName</key>
+		<string>tea.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Sugar</string>
+		<key>price</key>
+		<real>2</real>
+		<key>priceDescription</key>
+		<string>£2.00 per 1kg</string>
+		<key>imageName</key>
+		<string>sugar.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Milk</string>
+		<key>price</key>
+		<real>1.2</real>
+		<key>priceDescription</key>
+		<string>£1.20 per bottle</string>
+		<key>imageName</key>
+		<string>milk.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Cup</string>
+		<key>price</key>
+		<real>0.5</real>
+		<key>priceDescription</key>
+		<string>£0.50p</string>
+		<key>imageName</key>
+		<string>cup.png</string>
+	</dict>
+</array>
+</plist>
